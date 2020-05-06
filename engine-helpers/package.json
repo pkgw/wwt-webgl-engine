@@ -1,6 +1,6 @@
 {
   "name": "@pkgw/engine-helpers",
-  "version": "0.1.0-beta.5",
+  "version": "0.1.0-beta.6",
   "description": "Helpful extensions to the AAS WorldWide Telescope engine.",
   "keywords": [
     "AAS WorldWide Telescope"
@@ -21,8 +21,8 @@
   },
   "dependencies": {
     "@pkgw/astro": "^1.0.1-beta.2",
-    "@pkgw/engine": "^7.0.0-beta.4",
-    "@pkgw/engine-types": "^1.0.1-beta.2"
+    "@pkgw/engine": "^7.0.1-beta.0",
+    "@pkgw/engine-types": "^1.0.2-beta.0"
   },
   "localDepRequiredCommits": {
     "@pkgw/astro": "f67c4bb8bbe05af1eb2b20c26a575374c53d3d01",

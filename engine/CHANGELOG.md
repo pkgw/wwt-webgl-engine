@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [7.0.1-beta.0](https://github.com/pkgw/wwt-webgl-engine/compare/@pkgw/engine@7.0.0...@pkgw/engine@7.0.1-beta.0) (2020-05-06)
+
+**Note:** Version bump only for package @pkgw/engine
+
+
+
+
+
+
 ## 7.0.0 (2020-05-06)
 
 Graduating pre-release version 7.0.0-beta.4 to full release 7.0.0.
